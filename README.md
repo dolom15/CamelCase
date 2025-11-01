@@ -1,1 +1,1 @@
-# CamelCase
+# CamelCase This code counts the number of words in a camelCase string by initializing a count at 1 and incrementing it for every uppercase letter found. It then returns the total word count as an integer.
